@@ -1,0 +1,1 @@
+ceci est un texte de demonstration mais il est preferable de prendre un texte plus long pour avoir une reele optimisation adaptee a la langue. le programme va prendre ce texte et creer une disposition de clavier a partir de ca.
