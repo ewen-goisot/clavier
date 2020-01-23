@@ -1,1 +1,6 @@
 ceci est un texte de demonstration mais il est preferable de prendre un texte plus long pour avoir une reele optimisation adaptee a la langue. le programme va prendre ce texte et creer une disposition de clavier a partir de ca.
+vous pouvez remplacer ce texte par votre propre ecriture, ou un extrait de livre, ou un livre complet, ou n'importe quoi qui convient.
+ne cherchez pas de sens profond dans ces phrases il n'y en a pas.
+choisir judicieusement les accents que vous voulez voir presents sur votre clavier, pas forcement tous.
+vous pouvez aussi vous servir d'un systeme de completion pour ajouter les accents manguants, voir mon dossier nomme config.
+ce programme devra etre ameliore significativement, contenir un prouveur et un systeme de remplacement automatique des lettres accentuees.
